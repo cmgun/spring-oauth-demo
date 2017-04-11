@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: oauth2.0demo
+server:
+  port: 8099
+management:
+  context_path: /
+security:
+  user:
+    password: 111111
+logging:
+  level:
+    # org.springframework.security: DEBUG
